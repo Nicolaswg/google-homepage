@@ -1,4 +1,6 @@
-Google-Home Page
+Google-Home Page 
+Add index.html to the final of the site URL
+https://nicolaswg.github.io/google-homepage/index.html
 
 In this project, we are going to see a basic Html and CSS code trying to copy how the google main page looks like.
 The skills that we are using for developing this project are:
