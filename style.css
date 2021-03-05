@@ -141,7 +141,7 @@ div{
 .button-style{
     background-color: #e5e9ecdc;
     border: 2px solid #f8f9fab0;
-    border-radius: 4px;
+    border-radius: 5px;
     color: #3c4043;
     font-family: arial,sans-serif;
     font-size: 16px;
@@ -150,6 +150,9 @@ div{
     height: 50px;
     cursor: pointer;
     padding: 10px;
+}
+.button-style:hover{
+    background-color: #dcdfe0dc;
 }
 
 .language-site{
