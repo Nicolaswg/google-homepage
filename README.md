@@ -1,4 +1,5 @@
 Google-Home Page
+
 In this project, we are going to see a basic Html and CSS code trying to copy how the google main page looks like.
 The skills that we are using for developing this project are:
 1. Two ways to move a div around on the page
